@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "env2": "^2.2.2",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  },
+  "name": "testprojectweek7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
